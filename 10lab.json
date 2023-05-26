@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "name": "Шоколад",
+            "price": 50,
+            "available": true,
+            "weight": 100
+        },
+        {
+            "name": "Кофе",
+            "price": 100,
+            "available": false,
+            "weight": 250
+        },
+        {
+            "name": "Чай",
+            "price": 70,
+            "available": true,
+            "weight": 50
+        },
+        {
+            "name": "чай",
+            "price": 300,
+            "available": true,
+            "weight": 400
+        },
+        {
+            "name": "чай",
+            "price": "150",
+            "available": "да",
+            "weight": "150"
+        },
+        {
+            "name": "шоколад",
+            "price": "200",
+            "available": "нет",
+            "weight": "150"
+        },
+        {
+            "name": "чай",
+            "price": "150",
+            "available": "да",
+            "weight": "150"
+        },
+        {
+            "name": "вава",
+            "price": "авав",
+            "available": "ав",
+            "weight": "а"
+        },
+        {
+            "name": "xfq",
+            "price": "df",
+            "available": "fd",
+            "weight": "df"
+        },
+        {
+            "name": "ddt",
+            "price": "gug",
+            "available": "h",
+            "weight": "hj"
+        }
+    ]
+}
